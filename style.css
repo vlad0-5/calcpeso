@@ -1,0 +1,219 @@
+*{
+    padding: 0;
+    margin:  0;
+ }
+ html{
+    height: 1100px;
+    background-image:url(https://i.pinimg.com/564x/1d/3b/c5/1d3bc558e2763e0ef73e8fec8782bbcf.jpg);
+    background-size: 1500px;
+    background-attachment: fixed;
+}
+body{
+    height: 1300px;
+    width:  950px;
+    margin: auto;
+}
+header{
+    background-color: rgba(127, 193, 255, 0.856);
+    height: 80px;
+    width:  950px;
+   
+
+ }
+ header h1{
+    color: rgba(223, 235, 226, 0.993);
+    padding: 20px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shadows Into Light', cursive;
+ }
+ 
+ nav{
+    overflow: hidden;
+    background:#059ab496 ;
+    height: 20px;
+    width: 98%;
+    padding: 10px;
+ }
+ nav a{
+    color: rgba(254, 254, 255, 0.966);
+    text-align: center;
+    padding: 20px ;
+    text-decoration: none; 
+    line-height: 10px;
+    border-radius: 4px;
+    font-family: 'lucida grande', tahoma, verdana, arial, sans-serif;
+ }
+ nav a:hover {
+   background-color: rgba(7, 71, 247, 0.781);
+   color: rgb(253, 245, 245);
+ }
+ #ejer1{
+    background-color: rgba(62, 132, 134, 0.712);
+    height: 800px;
+    width: 950px;
+ }
+ #ejer1 h2{
+    text-align: center;
+    color: rgba(223, 235, 226, 0.993);
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shadows Into Light', cursive;
+
+ }
+ #ejer1 h1{
+    text-align: center;
+    color: rgba(223, 235, 226, 0.993);
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shadows Into Light', cursive;
+
+ }
+ #nro1{
+    padding: 15px;
+    margin: 60px;
+    text-align: center;
+    color: #1f1918;
+    font-size: 24px;
+ }
+
+ #calculadora{
+    background-color:  rgba(62, 132, 134, 0.712);
+    height: 1350px;
+    width: 950px;
+
+ }
+ #calculadora h1{
+    text-align: center;
+    color: rgba(223, 235, 226, 0.993);
+    padding: 40px; 
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    background-color: rgba(22, 29, 122, 0.425);
+ }
+ #teoria{
+    width: 550px;
+    height: 1200px;
+    float: left;
+    background-color: #277e7859;
+ }
+ #teoria h1{
+    text-align: center;
+    color: rgba(223, 235, 226, 0.993);
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    background-color: rgba(22, 29, 122, 0.425);
+ }
+
+ #teoria h2{
+    text-align: center;
+    color: rgba(223, 235, 226, 0.993);
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Shadows Into Light', cursive;
+
+ }
+ #formulario{
+    width: 400px;
+    height: 1200px;
+    float: right;
+    background-color: rgba(0, 255, 255, 0.082);
+ }
+ #formulario h1{
+    background-color:  rgba(22, 29, 122, 0.425);
+ }
+ #nro2{
+    padding: 15px;
+    margin: 40px;
+    text-align: center;
+    color: #1f1918;
+    font-size: 24px;
+ }
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ input[type=number]{
+    margin:10px 0px;
+    float: center;
+    margin: 0 auto;
+
+    font-size: 20px;
+  }
+  .respuesta{
+    background:rgba(1, 148, 148, 0.562);   
+    
+  }
+  
+    
+  button{
+    border-radius:30px;
+    padding:10px;
+    background:rgb(0, 255, 115);
+  }#Raiz{
+    display:list-item;
+    font-size:30px;
+    border: rgb(62, 90, 122) 10px;
+    background:rgba(160, 205, 240, 0.705);
+    padding:10px;
+    border-style: inset;
+  }
+  #Raiz2{
+    display:inline-table;
+    font-size:30px;
+    border: rgb(62, 90, 122) 10px;
+    background:rgba(160, 205, 240, 0.705);
+    padding:10px;
+    border-style:inset;
+  }
